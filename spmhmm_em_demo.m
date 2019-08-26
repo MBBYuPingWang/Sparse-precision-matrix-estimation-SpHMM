@@ -1,4 +1,4 @@
-addpath(genpath('C:\Users\admin\Documents\MATLAB\Utilities\HMMall'));
+
 if 0
   O = 4;
   T = 10;
